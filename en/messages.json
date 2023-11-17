@@ -391,5 +391,13 @@
   },
   "filterInputPlaceholder": {
     "message": "Search container name"
+  },
+  "contextual-identities-error-title": {
+    "message": "⚠️ Uh oh!",
+    "description": "TBD"
+  },
+  "contextual-identities-error-description": {
+    "message": "Navigate to about:config and make sure privacy.userContext.enabled is true.",
+    "description": "TBD"
   }
 }
